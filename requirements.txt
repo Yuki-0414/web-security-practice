@@ -1,0 +1,6 @@
+python>=3.8
+requests>=2.31.0
+scapy>=2.5.0  # 数据包处理
+pandas>=2.0.0  # 日志分析
+matplotlib>=3.7.0  # 可视化
+beautifulsoup4>=4.12.2  # HTML解析
